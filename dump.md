@@ -44,10 +44,16 @@ Stacksmashing - Cybersecurity
 
 [POV: I'm on my third coffee and you just asked me how the internet works] - By fasterthanlime, covers IPv6 and IPv4 with cool hands-on tracing commands
 
+[xv6 risc kernel deep dive playlist!](https://youtu.be/fWUJKH0RNFE?si=Nt7QJWPWOaQM0p0s)
+
+[OS virtual memory playlist!](https://youtu.be/qcBIvnQt0Bw?si=kpmtFmmXdTc2CV4D)
+
 #### Websites
  - [Database of IETF RFCs](https://datatracker.ietf.org/)
  - [TLS Protocol RFC5246](https://datatracker.ietf.org/doc/html/rfc5246)
  - [Latest DHCP RFC](https://datatracker.ietf.org/doc/html/rfc2131)
+ - [OSPF RFC](https://datatracker.ietf.org/doc/html/rfc2178)
+ - [IPSec VPN RFC5996](https://datatracker.ietf.org/doc/html/rfc5996)
 
 ## Miscellaneous
 - [Neat Blog Post on Charsets and Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
