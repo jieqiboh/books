@@ -1,0 +1,2 @@
+blogs:
+- https://beta.vero.site/
